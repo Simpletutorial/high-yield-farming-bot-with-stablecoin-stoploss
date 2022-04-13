@@ -3,7 +3,7 @@ This is the 30-day result of this script that I bought originally had custom mad
 You can get the the bot here 
 https://raw.githubusercontent.com/Simpletutorial/high-yield-farming-bot-with-stablecoin-stoploss/main/high-yield-farming-bot-with-stablecoin-stoploss.txt
 Here a step by step YouTube tutorial on how to deploy it
-
+https://youtu.be/azx5BbiSH8M
 
 #high-yield-farming-bot-with-stablecoin-stoploss
 ETH high yield farming-bot with stablecoin stoploss
